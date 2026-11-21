@@ -1,0 +1,78 @@
+{
+  "source": "Indian quick-commerce reports",
+  "generated_at_utc": "2026-11-17T09:48:33.824243+00:00",
+  "filing_date_note": "filing_date uses March 31 of the fiscal year as a reporting-date proxy, not the actual publication date",
+  "document_count": 5,
+  "filings": [
+    {
+      "local_path": "2025/eternal_ar_2025.pdf",
+      "ticker": "ETERNAL",
+      "company_name": "Eternal Limited (Zomato & Blinkit)",
+      "fiscal_year": 2025,
+      "form": "Annual Report",
+      "accession_number": "eternal-fy25-ar",
+      "cik": null,
+      "filing_date": "2025-03-31",
+      "filing_date_basis": "fiscal_year_end_proxy",
+      "report_date": "2025-03-31",
+      "primary_document": "eternal_ar_2025.pdf",
+      "source_url": ""
+    },
+    {
+      "local_path": "2026/eternal_ar_2026.pdf",
+      "ticker": "ETERNAL",
+      "company_name": "Eternal Limited (Zomato & Blinkit)",
+      "fiscal_year": 2026,
+      "form": "Annual Report",
+      "accession_number": "eternal-fy26-ar",
+      "cik": null,
+      "filing_date": "2026-03-31",
+      "filing_date_basis": "fiscal_year_end_proxy",
+      "report_date": "2026-03-31",
+      "primary_document": "eternal_ar_2026.pdf",
+      "source_url": ""
+    },
+    {
+      "local_path": "2025/swiggy_ar_2025.pdf",
+      "ticker": "SWIGGY",
+      "company_name": "Swiggy Limited",
+      "fiscal_year": 2025,
+      "form": "Annual Report",
+      "accession_number": "swiggy-fy25-ar",
+      "cik": null,
+      "filing_date": "2025-03-31",
+      "filing_date_basis": "fiscal_year_end_proxy",
+      "report_date": "2025-03-31",
+      "primary_document": "swiggy_ar_2025.pdf",
+      "source_url": ""
+    },
+    {
+      "local_path": "2026/swiggy_ar_2026.pdf",
+      "ticker": "SWIGGY",
+      "company_name": "Swiggy Limited",
+      "fiscal_year": 2026,
+      "form": "Annual Report",
+      "accession_number": "swiggy-fy26-ar",
+      "cik": null,
+      "filing_date": "2026-03-31",
+      "filing_date_basis": "fiscal_year_end_proxy",
+      "report_date": "2026-03-31",
+      "primary_document": "swiggy_ar_2026.pdf",
+      "source_url": ""
+    },
+    {
+      "local_path": "2026/zepto_2026.pdf",
+      "ticker": "ZEPTO",
+      "company_name": "Zepto Limited",
+      "fiscal_year": 2026,
+      "form": "IPO Prospectus (UDRHP)",
+      "accession_number": "zepto-fy26-udrhp",
+      "cik": null,
+      "filing_date": "2026-03-31",
+      "filing_date_basis": "fiscal_year_end_proxy",
+      "report_date": "2026-03-31",
+      "primary_document": "zepto_2026.pdf",
+      "source_url": ""
+    }
+  ]
+}
